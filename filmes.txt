@@ -1,3 +1,6 @@
 "Nao há certezas, apenas oportunidades."
 "Diga olá para meu pequeno amigo!!"
 "Marcelo quer usar este arquivo e não consegue"
+"Voçê conseguiu fazer de novo"
+"mais cuidado com os comandos"
+
